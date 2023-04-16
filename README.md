@@ -67,22 +67,18 @@
 ### 👉 Programming languages
 
 <p align="center"> 
-<!--   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a>  -->
-<!--   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>  -->
+  &emsp; 
+  <a href="https://www.rust-lang.org" target="_blank"> 
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23281C1C.svg?style=plastic&logo=rust&logoColor=white">
+  </a> 
+  &emsp; 
+  <a href="https://dart.dev" target="_blank"> 
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%234597CE.svg?style=plastic&logo=rust&logoColor=white">
+  </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-<!--   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a> -->
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -91,6 +87,14 @@
 
 ### 👉 Frontend Development
 <p align="center"> 
+  &emsp; 
+  <a href="https://flutter.dev/" target="_blank"> 
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2342A5F5.svg?style=plastic&logo=flutter&logoColor=white">
+  </a>
+	&emsp; 
+  <a href="https://react.dev/" target="_blank"> 
+   <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=white">
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -124,18 +128,18 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a> -->
 </p>
 
-<!--  ### 👉 IDEs
+ ### 👉 IDEs
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+<!--     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p> -->
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a> -->
+</p>
 
  ### 👉 Operating Systems
  
@@ -146,8 +150,10 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Mac-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	   -->
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Mac-555555.svg?style=plastic&&logo=apple&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Android-A4C639.svg?style=plastic&&logo=android&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -171,7 +177,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/krishan-kumar-mourya"><img alt="krishan-kumar-mourya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krishan-kumar-mourya&custom_title=krishan-kumar-mourya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/krishan-kumar-mourya"><img alt="krishan-kumar-mourya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=krishan-kumar-mourya&custom_title=krishan-kumar-mourya%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -184,4 +190,4 @@
 -----
 Credits: [krishan-kumar-mourya](https://github.com/krishan-kumar-mourya)
 
-Last Edited on: 10/06/2022
+Last Edited on: 16/04/2023
